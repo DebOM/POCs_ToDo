@@ -13,7 +13,7 @@ List of sample app features for quick POC that I will be adding to my github
 
 * AgGrid table layout of different views
 
-* Few graphs layout
+* Few graphs layout using D3 or @vx framewarks
 
 * One app with material UI with several highly used component API
 
