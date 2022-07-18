@@ -7,7 +7,7 @@ List of sample app features for quick POC that I will be adding to my github
 
 * compare react-hook-form, formik, redux-form and Do a POC on form with best practices
 
-* full pledge video player
+* full pledge video player: https://github.com/DebOM/React_Video_player2022
 
 * full pledge audio player
 
